@@ -817,37 +817,37 @@
         "showEmptyIntervals": false
       },
       "attributeName.html": {
-        "fgColor": "Gray 100",
+        "fgColor": "D19A66",
         "layer": 20,
         "fullLine": false,
         "showEmptyIntervals": false
       },
       "attributeValue.html": {
-          "fgColor": "8ea765",
+          "fgColor": "98C379",
         "layer": 20,
         "fullLine": false,
         "showEmptyIntervals": false
       },
       "entityReference.html": {
-        "fgColor": "Orange",
+        "fgColor": "E06C75",
         "layer": 20,
         "fullLine": false,
         "showEmptyIntervals": false
       },
       "tag.html": {
-        "fgColor": "Gray 90",
+        "fgColor": "ABB2BF",
         "layer": 20,
         "fullLine": false,
         "showEmptyIntervals": false
       },
       "tagName.html": {
-        "fgColor": "DarculaLightYellow",
+        "fgColor": "E06C75",
         "layer": 20,
         "fullLine": false,
         "showEmptyIntervals": false
       },
       "tagName.custom.html": {
-        "fgColor": "Orange",
+        "fgColor": "E06C75",
         "layer": 20,
         "fullLine": false,
         "showEmptyIntervals": false
