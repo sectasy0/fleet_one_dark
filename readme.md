@@ -7,10 +7,10 @@ This is an implementation of the popular One Dark Pro color scheme for JetBrains
 
 To install the One Dark Pro color scheme in JetBrains Fleet, follow these steps:
 
-1. Download the `one-dark-pro.json` file from this repository. 
+1. Download the `one-dark-pro.json` file from this repository.
 2. Put this file inside `C:\users\<your_username>\.fleet\themes\`
 3. Open JetBrains Fleet.
-4. Go to Settings > Themes and pick `OneDark` from the list 
+4. Go to Settings > Themes and pick `OneDark` from the list
 5. Enjoy your colors!
 
 ## Preview
