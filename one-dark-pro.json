@@ -510,6 +510,10 @@
         "style": "BORDER"
       }
     },
+    "editor.brace.highlighted": {
+      "bgColor": "#515a6b", 
+      "layer": 300
+    },
     "comment": {
       "fgColor": "Gray 90",
       "layer": 5,
