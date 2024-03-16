@@ -514,6 +514,18 @@
       "bgColor": "#515a6b", 
       "layer": 300
     },
+    "editor.indent.guide": {
+      "fgColor": "Gray 70",
+      "decoration": {
+        "style": "SOLID"
+      }
+    },
+    "editor.indent.guide.current": {
+      "fgColor": "Gray 100",
+      "decoration": {
+        "style": "SOLID"
+      }
+    },
     "comment": {
       "fgColor": "Gray 90",
       "layer": 5,
